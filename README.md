@@ -25,6 +25,7 @@ http://login:pass@ip:port
 ЗАПУСК
 
 Відкриваєм термінал і пишем команди:
+
 cd "напрямок папки"
 
 pip install -r requirements.txt
