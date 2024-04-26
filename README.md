@@ -26,5 +26,7 @@ http://login:pass@ip:port
 
 Відкриваєм термінал і пишем команди:
 cd "напрямок папки"
+
 pip install -r requirements.txt
+
 py main.py
