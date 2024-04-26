@@ -5,7 +5,9 @@
 При встановленні проставляєм всі галочки
 
 Скрипт по Debridge
+
 https://app.debridge.finance/
+
 Ганяє ETH між мережами Arbitrum, Optimism, Base, Linea.
 
 Можна виставити налаштування у файлі config.json
