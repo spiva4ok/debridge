@@ -1,0 +1,4 @@
+web3~=6.4.0
+loguru~=0.7.0
+requests~=2.31.0
+setup tools

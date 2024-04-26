@@ -1,0 +1,22 @@
+{
+  "module": "bridge_eth",
+  "modules": {
+    "bridge_eth": {
+      "randomise_order": true,
+      "max_gas": 50,
+      "network": {
+        "source": "linea",
+        "destination": "arbitrum"
+      },
+      "amount": {
+        "all": true,
+        "min": 0.002,
+        "max": 0.004
+      },
+      "timeout": {
+        "min": 150,
+        "max": 300
+      }
+    }
+  }
+}
