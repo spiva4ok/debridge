@@ -1,12 +1,12 @@
+# Debridge
+
 Для запуску необхідно скачати та встановити Python. 
 Качаєм тут - https://www.python.org/downloads/
 При встановленні проставляєм всі галочки
 
-
 Скрипт по Debridge
 https://app.debridge.finance/
 Ганяє ETH між мережами Arbitrum, Optimism, Base, Linea.
-
 
 Можна виставити налаштування у файлі config.json
 
